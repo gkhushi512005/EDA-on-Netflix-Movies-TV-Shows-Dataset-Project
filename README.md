@@ -24,7 +24,7 @@ This project explores the **Netflix dataset** using **Exploratory Data Analysis 
 
 ## Tools Used
 
-`Python`, `Pandas`, `Plotly`, `Matplotlib`, `Seaborn`, `Jupyter Notebook`
+`Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Jupyter Notebook`
 
 ## Dataset
 
