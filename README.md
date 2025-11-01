@@ -12,7 +12,7 @@ This project explores the **Netflix dataset** using **Exploratory Data Analysis 
 ##  Overview
 
 * Cleaned and analyzed Netflix data using **Pandas** and **NumPy**.
-* Visualized patterns with **Plotly** and **Matplotlib**.
+* Visualized patterns with **Matplotlib**.
 * Discovered trends in **movie vs TV show distribution**, **top genres**, and **release year patterns**.
 
 ## Features
